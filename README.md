@@ -13,7 +13,7 @@ This is a simple API for a library management system built using FastAPI and SQL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/bugramatik/library-management-api.git
+    git clone https://github.com/ritmodevoficial/api-sistema-de-gerenciamento-de-biblioteca.git
     ```
 
 2. Navigate to the directory:
